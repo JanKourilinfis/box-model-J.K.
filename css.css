@@ -1,0 +1,33 @@
+*{
+  margin: auto; 
+  
+
+}
+h1{
+    border: 2px dashed red;
+    max-width: fit-content;  
+
+}
+p{
+    border: 2px dashed red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto
+    ;
+    
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 100%;
+    
+}
+div:hover{
+    background-color: blue;
+}
+   
+    
